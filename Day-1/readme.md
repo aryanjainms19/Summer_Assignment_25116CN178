@@ -1,1 +1,0 @@
-this is example of file to be ignored but git, by pushing it to .gitignore
