@@ -26,8 +26,6 @@ int main() {
     cin >> num2;
 
     int result = lcm(num1, num2);
-    int gcdValue = gcd(num1, num2);
-
     cout << "\n--- Results ---" << endl;
     cout << "LCM(" << num1 << ", " << num2 << ") = " << result << endl;
     return 0;
